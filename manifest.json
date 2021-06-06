@@ -1,0 +1,11 @@
+{
+    "name": "DeathsRegardsItem",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Headline/ROR2-DeathsRegards",
+    "description": "A high-damage burst protection item, given to you by Death themself",
+    "dependencies": [
+		"tristanmcpherson-R2API-3.0.43",
+		"bbepis-BepInExPack-5.4.9",
+		"RiskofThunder-HookGenPatcher-1.2.1"
+    ]
+}
